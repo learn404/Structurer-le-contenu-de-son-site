@@ -1,1 +1,2 @@
-# Structurer-le-contenu-de-son-site
+# Structurer le contenu de son site -  Learn404
+Ce dépôt GitHub est associé au cours Structurer le contenu de son site de [Learn404](www.learn404.com). Il contient l'ensemble des ressources, exemples de code, et projets développés au cours de cette formation.
